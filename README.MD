@@ -7,3 +7,8 @@ https://brahmakothapalli.hashnode.dev/handling-bearer-token-authentication-using
 
 Pandas Loc
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
+
+Merchants script
+https://github.com/diogofrmota/api_requests/blob/main/merchants.py
+
+Rick and Morty
