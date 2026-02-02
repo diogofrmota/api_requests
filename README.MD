@@ -12,3 +12,4 @@ Merchants script
 https://github.com/diogofrmota/api_requests/blob/main/merchants.py
 
 Rick and Morty
+https://github.com/diogofrmota/api_requests/blob/main/rickandmorty.py
